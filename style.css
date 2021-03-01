@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+#box {
+    background-color: blueviolet;
+    padding: 10px 10px;
+}
+
+#content {
+    background-color: deeppink;
+    text-align: center;
+}
+
+body {
+    background-color: pink;
+    margin: 0px;
+    padding: 0px;
+}
